@@ -1,0 +1,25 @@
+{
+  "name": "bulma_adventures",
+  "version": "1.0.0",
+  "description": "working on bulma setup",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "npm  run build "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtkaufman737/bulma_adventures.git"
+  },
+  "keywords": [
+    "foo",
+    "barrington",
+    "family",
+    "band"
+  ],
+  "author": "jtkk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtkaufman737/bulma_adventures/issues"
+  },
+  "homepage": "https://github.com/jtkaufman737/bulma_adventures#readme"
+}
